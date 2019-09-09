@@ -12,7 +12,7 @@ Here we'll try to implement one of many very popular hedge fund strategies by cr
 - RSI signals. Based on adjustable parameters. 
 - Holdings rebalancing. Create an algorithm to rebalance the weights as shares are being bought/sold 
 
-**Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/algotraiding/blob/master/algorithmic%20trading%20system.ipynb)**
+**Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Algorithmic-trading/blob/master/algorithmic%20trading%20system.ipynb)**
 
 <img src="readme_intro_pic.jpg"> 
 
