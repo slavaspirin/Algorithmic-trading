@@ -1,0 +1,105 @@
+FundTicker,SecurityNum,Issuer Ticker,Shares,MarketValue,Weight (%),Name,Sector
+QQQ,02079K107,GOOG,"2,853,450","3,527,834,373",4.731,Alphabet Inc,Communication Services
+QQQ,30303M102,FB,"19,523,552","3,490,420,626.56",4.681,Facebook Inc,Communication Services
+QQQ,02079K305,GOOGL,"2,494,738","3,093,824,383.32",4.149,Alphabet Inc,Communication Services
+QQQ,20030N101,CMCSA,"40,638,074","1,729,962,810.18",2.32,Comcast Corp,Communication Services
+QQQ,64110L106,NFLX,"3,928,354","1,393,544,297.96",1.869,Netflix Inc,Communication Services
+QQQ,16119P108,CHTR,"2,027,672","733,388,685.68",0.984,Charter Communications Inc,Communication Services
+QQQ,872590104,TMUS,"7,650,025","554,320,811.50",0.743,T-Mobile US Inc,Communication Services
+QQQ,56752108,BIDU,"2,507,350","427,076,925.50",0.573,Baidu Inc ADR,Communication Services
+QQQ,00507V109,ATVI,"6,872,711","309,134,540.78",0.415,Activision Blizzard Inc,Communication Services
+QQQ,285512109,EA,"2,695,664","247,866,304.80",0.332,Electronic Arts Inc,Communication Services
+QQQ,82968B103,SIRI,"39,101,821","235,001,944.21",0.315,Sirius XM Holdings Inc,Communication Services
+QQQ,64110W102,NTES,"658,723","176,722,206.44",0.237,NetEase Inc ADR,Communication Services
+QQQ,G5480U120,LBTYK,"4,737,469","126,679,921.06",0.17,Liberty Global PLC,Communication Services
+QQQ,35137L105,FOXA,"3,146,601","122,213,982.84",0.164,Fox Corp,Communication Services
+QQQ,874054109,TTWO,"1,018,175","91,371,024.50",0.123,Take-Two Interactive Software Inc,Communication Services
+QQQ,35137L204,FOX,"2,373,749","90,700,949.29",0.122,Fox Corp,Communication Services
+QQQ,G5480U104,LBTYA,"1,839,858","50,706,486.48",0.068,Liberty Global PLC,Communication Services
+QQQ,254687106,DIS,"10,417","1,372,439.75",0.002,Walt Disney Co/The,Communication Services
+QQQ,23135106,AMZN,"3,983,173","7,427,900,673.86",9.962,Amazon.com Inc,Consumer Discretionary
+QQQ,855244109,SBUX,"11,189,507","840,555,765.84",1.127,Starbucks Corp,Consumer Discretionary
+QQQ,09857L108,BKNG,"405,002","745,118,629.58",0.999,Booking Holdings Inc,Consumer Discretionary
+QQQ,88160R101,TSLA,"1,554,087","421,515,017.01",0.565,Tesla Inc,Consumer Discretionary
+QQQ,571903202,MAR,"3,069,369","417,219,328.17",0.56,Marriott International Inc/MD,Consumer Discretionary
+QQQ,778296103,ROST,"3,334,438","333,177,044.96",0.447,Ross Stores Inc,Consumer Discretionary
+QQQ,278642103,EBAY,"8,231,797","296,097,738.09",0.397,eBay Inc,Consumer Discretionary
+QQQ,67103H107,ORLY,"705,215","285,097,268.05",0.382,O'Reilly Automotive Inc,Consumer Discretionary
+QQQ,47215P106,JD,"8,319,114","248,325,552.90",0.333,JD.com Inc ADR,Consumer Discretionary
+QQQ,256746108,DLTR,"2,141,153","231,244,524",0.31,Dollar Tree Inc,Consumer Discretionary
+QQQ,58733R102,MELI,"406,717","202,699,618.46",0.272,MercadoLibre Inc,Consumer Discretionary
+QQQ,22943F100,CTRP,"4,381,127","192,550,531.65",0.258,Ctrip.com International Ltd ADR,Consumer Discretionary
+QQQ,90384S303,ULTA,"533,670","189,095,291.10",0.254,Ulta Beauty Inc,Consumer Discretionary
+QQQ,550021109,LULU,"1,094,428","187,398,906.44",0.251,Lululemon Athletica Inc,Consumer Discretionary
+QQQ,30212P303,EXPE,"1,209,185","150,930,471.70",0.202,Expedia Group Inc,Consumer Discretionary
+QQQ,983134107,WYNN,"968,492","138,843,013.12",0.186,Wynn Resorts Ltd,Consumer Discretionary
+QQQ,418056107,HAS,"1,132,286","102,109,551.48",0.137,Hasbro Inc,Consumer Discretionary
+QQQ,713448108,PEP,"12,638,888","1,605,265,164.88",2.153,PepsiCo Inc,Consumer Staples
+QQQ,22160K105,COST,"3,963,385","973,248,820.60",1.305,Costco Wholesale Corp,Consumer Staples
+QQQ,609207105,MDLZ,"12,994,127","652,694,999.21",0.875,Mondelez International Inc,Consumer Staples
+QQQ,931427108,WBA,"8,488,773","468,070,943.22",0.628,Walgreens Boots Alliance Inc,Consumer Staples
+QQQ,500754106,KHC,"10,972,064","360,871,184.96",0.484,Kraft Heinz Co/The,Consumer Staples
+QQQ,61174X109,MNST,"4,887,055","268,250,448.95",0.36,Monster Beverage Corp,Consumer Staples
+QQQ,G96629103,WLTW,"1,161,603","205,487,570.70",0.276,Willis Towers Watson PLC,Financials
+QQQ,31162100,AMGN,"5,599,057","1,021,659,930.79",1.37,Amgen Inc,Health Care
+QQQ,375558103,GILD,"11,476,626","725,896,594.50",0.974,Gilead Sciences Inc,Health Care
+QQQ,151020104,CELG,"6,317,849","595,773,160.70",0.799,Celgene Corp,Health Care
+QQQ,46120E602,ISRG,"1,030,139","540,822,975",0.725,Intuitive Surgical Inc,Health Care
+QQQ,452327109,ILMN,"1,322,654","421,516,603.26",0.565,Illumina Inc,Health Care
+QQQ,09062X103,BIIB,"1,769,918","402,089,971.24",0.539,Biogen Inc,Health Care
+QQQ,92532F100,VRTX,"2,300,290","384,079,421.30",0.515,Vertex Pharmaceuticals Inc,Health Care
+QQQ,75886F107,REGN,"966,050","331,326,168.50",0.444,Regeneron Pharmaceuticals Inc,Health Care
+QQQ,15351109,ALXN,"2,010,710","253,168,496.10",0.34,Alexion Pharmaceuticals Inc,Health Care
+QQQ,16255101,ALGN,"719,733","196,976,527.44",0.264,Align Technology Inc,Health Care
+QQQ,156782104,CERN,"2,918,489","182,113,713.60",0.244,Cerner Corp,Health Care
+QQQ,45168D104,IDXX,"773,862","166,790,476.86",0.224,IDEXX Laboratories Inc,Health Care
+QQQ,45337C102,INCY,"1,925,970","143,138,090.40",0.192,Incyte Corp,Health Care
+QQQ,09061G101,BMRN,"1,604,942","132,166,973.70",0.177,BioMarin Pharmaceutical Inc,Health Care
+QQQ,N59465109,MYL,"4,642,354","124,090,122.42",0.166,Mylan NV,Health Care
+QQQ,806407102,HSIC,"1,362,275","82,730,960.75",0.111,Henry Schein Inc,Health Care
+QQQ,126408103,CSX,"7,338,779","579,323,214.26",0.777,CSX Corp,Industrials
+QQQ,693718108,PCAR,"3,119,664","221,870,503.68",0.298,PACCAR Inc,Industrials
+QQQ,910047109,UAL,"2,399,927","214,169,485.48",0.287,United Continental Holdings Inc,Industrials
+QQQ,92345Y106,VRSK,"1,471,180","201,463,389.20",0.27,Verisk Analytics Inc,Industrials
+QQQ,172908105,CTAS,"940,649","197,479,851.06",0.265,Cintas Corp,Industrials
+QQQ,311900104,FAST,"2,574,752","180,567,357.76",0.242,Fastenal Co,Industrials
+QQQ,02376R102,AAL,"4,040,439","138,910,292.82",0.186,American Airlines Group Inc,Industrials
+QQQ,445658107,JBHT,"978,378","96,380,016.78",0.129,JB Hunt Transport Services Inc,Industrials
+QQQ,37833100,AAPL,"38,230,387","7,765,738,511.31",10.415,Apple Inc,Information Technology
+QQQ,594918104,MSFT,"62,202,660","7,574,417,908.20",10.159,Microsoft Corp,Information Technology
+QQQ,458140100,INTC,"40,462,457","2,369,481,481.92",3.178,Intel Corp,Information Technology
+QQQ,17275R102,CSCO,"39,607,919","2,230,321,918.89",2.991,Cisco Systems Inc,Information Technology
+QQQ,00724F101,ADBE,"4,388,406","1,182,455,996.70",1.586,Adobe Inc,Information Technology
+QQQ,70450Y103,PYPL,"10,556,130","1,148,612,505.30",1.54,PayPal Holdings Inc,Information Technology
+QQQ,11135F101,AVGO,"3,564,008","1,142,371,484.24",1.532,Broadcom Inc,Information Technology
+QQQ,67066G104,NVDA,"5,452,574","1,021,212,584.46",1.37,NVIDIA Corp,Information Technology
+QQQ,882508104,TXN,"8,444,166","976,145,589.60",1.309,Texas Instruments Inc,Information Technology
+QQQ,747525103,QCOM,"10,889,908","861,173,924.64",1.155,QUALCOMM Inc,Information Technology
+QQQ,53015103,ADP,"3,919,631","638,311,908.35",0.856,Automatic Data Processing Inc,Information Technology
+QQQ,461202103,INTU,"2,331,066","597,382,283.82",0.801,Intuit Inc,Information Technology
+QQQ,595112103,MU,"10,086,801","435,245,463.15",0.584,Micron Technology Inc,Information Technology
+QQQ,32654105,ADI,"3,313,949","379,115,765.60",0.508,Analog Devices Inc,Information Technology
+QQQ,38222105,AMAT,"8,542,328","374,922,775.92",0.503,Applied Materials Inc,Information Technology
+QQQ,192446102,CTSH,"5,174,549","373,343,710.35",0.501,Cognizant Technology Solutions Corp,Information Technology
+QQQ,52769106,ADSK,"1,970,574","331,115,549.22",0.444,Autodesk Inc,Information Technology
+QQQ,983919101,XLNX,"2,277,869","309,380,167.58",0.415,Xilinx Inc,Information Technology
+QQQ,337738108,FISV,"3,523,361","300,507,459.69",0.403,Fiserv Inc,Information Technology
+QQQ,N6596X109,NXPI,"2,957,549","299,215,232.33",0.401,NXP Semiconductors NV,Information Technology
+QQQ,512807108,LRCX,"1,372,991","269,504,403.39",0.361,Lam Research Corp,Information Technology
+QQQ,704326107,PAYX,"3,230,988","263,519,381.28",0.353,Paychex Inc,Information Technology
+QQQ,98138H101,WDAY,"1,358,665","259,532,188.30",0.348,Workday Inc,Information Technology
+QQQ,7903107,AMD,"9,045,354","248,656,781.46",0.333,Advanced Micro Devices Inc,Information Technology
+QQQ,595017104,MCHP,"2,132,186","211,662,104.22",0.284,Microchip Technology Inc,Information Technology
+QQQ,9.23E+106,VRSN,"1,077,158","200,674,535.40",0.269,VeriSign Inc,Information Technology
+QQQ,M22465104,CHKP,"1,405,569","182,063,352.57",0.244,Check Point Software Technologies Ltd,Information Technology
+QQQ,64110D104,NTAP,"2,222,183","172,596,953.61",0.231,NetApp Inc,Information Technology
+QQQ,482480100,KLAC,"1,361,915","168,496,123.80",0.226,KLA-Tencor Corp,Information Technology
+QQQ,127387108,CDNS,"2,522,825","161,385,115.25",0.216,Cadence Design Systems Inc,Information Technology
+QQQ,871607107,SNPS,"1,346,731","156,274,665.24",0.21,Synopsys Inc,Information Technology
+QQQ,57772K101,MXIM,"2,459,921","146,537,493.97",0.197,Maxim Integrated Products Inc,Information Technology
+QQQ,83088M102,SWKS,"1,566,192","142,805,386.56",0.192,Skyworks Solutions Inc,Information Technology
+QQQ,958102105,WDC,"2,616,991","142,495,159.95",0.191,Western Digital Corp,Information Technology
+QQQ,871503108,SYMC,"5,751,474","140,738,568.78",0.189,Symantec Corp,Information Technology
+QQQ,N07059210,ASML,"645,227","131,213,362.72",0.176,ASML Holding NV,Information Technology
+QQQ,177376100,CTXS,"1,185,210","118,758,042",0.159,Citrix Systems Inc,Information Technology
+QQQ,98389B100,XEL,"4,626,713","253,405,071.01",0.34,Xcel Energy Inc,Utilities
