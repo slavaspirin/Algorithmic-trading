@@ -2,7 +2,7 @@
 
 
 Here we'll try to implement one of many very popular hedge fund strategies by creating a portfolio of an ETF and it's underlying stocks. I am going to create an algorithm that tracks every single stock from the ETF and manages portfolio by moving capital between ETF itself and underlying stocks. The main trigger of buying/selling stocks is based on Relative Strength Index (RSI) indicator. 
-
+ 
 
 #### Considerations ####
 - Dividends.  The model has to calculate dividends properly according to ex, record dates etc
